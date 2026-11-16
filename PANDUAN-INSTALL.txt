@@ -1,4 +1,4 @@
-SaePaper Free v1.5.7
+SaePaper Free v1.5.8
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
