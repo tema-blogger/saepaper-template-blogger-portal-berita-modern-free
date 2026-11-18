@@ -48,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 
-<!-- TemaBlogger release | product=saepaper | releaseVersion=1.5.9 | date=2026-11-17 | delivery=free-v1 | basePremiumVersion=1.5.7 -->
+<!-- TemaBlogger release | product=saepaper | releaseVersion=1.5.10 | date=2026-11-18 | delivery=free-v1 | basePremiumVersion=1.5.7 -->
 
 <!DOCTYPE html>
-<html b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion="1.5.9" expr:data-home='data:blog.homepageUrl' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion="1.5.10" expr:data-home='data:blog.homepageUrl' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head><meta charset='UTF-8'/><script>//<![CDATA[
 try{document.documentElement.dataset.theme=localStorage.getItem('saepaper_theme_mode')==='dark'?'dark':'light'}catch(e){}
 ////]]></script><meta content='width=device-width, initial-scale=1' name='viewport'/><title><data:blog.pageTitle/></title><b:include data='blog' name='all-head-content'/><link href='https://fonts.googleapis.com' rel='preconnect'/><link crossorigin='anonymous' href='https://fonts.gstatic.com' rel='preconnect'/><link href='https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;family=Roboto+Slab:wght@400;500;700&amp;display=optional' media='print' onload='this.onload=null;this.media=&quot;all&quot;' rel='stylesheet'/><noscript><link href='https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;family=Roboto+Slab:wght@400;500;700&amp;display=optional' rel='stylesheet'/></noscript><b:skin><![CDATA[/* <Group description="Warna SaePaper" selector="body"><Variable name="accentColor" description="Warna utama" type="color" default="#f01e32" value="#f01e32"/><Variable name="secondaryColor" description="Warna sekunder" type="color" default="#600c14" value="#600c14"/></Group> */.sp-layout-wrap{display:contents}
@@ -473,7 +473,7 @@ body#layout .tb-free-lock-note{display:block;color:#52627a;font-size:13px}
 <b:section class='tb-license-settings' id='tbLicenseSettings' name='Lisensi Tema Blogger' showaddelement='yes'>
   <b:widget id='HTML98' locked='true' title='License Key' type='HTML' version='2' visible='true'>
     <b:widget-settings><b:widget-setting name='content'></b:widget-setting></b:widget-settings>
-    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Versi Free. Untuk iklan dan pengaturan kredit footer, gunakan paket Premium.</div></b:includable>
+    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Edisi Free aktif tanpa pembelian atau kode lisensi. TemaBlogger adalah pembuat template ini. Pengaturan logo, menu, warna, dan gadget tetap dikelola melalui Tata Letak.</div></b:includable>
   </b:widget>
 </b:section>
 
